@@ -10,18 +10,20 @@
 🌈 Tech 🌈
 
 
+
+
+
+
+
+![usiwol's github stats](https://github-readme-stats.vercel.app/api?username=usiwol&show_icons=true&theme=dark)
+
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
-
-
-
-
-
-
-
+ 
+ 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usiwol&layout=compact)](https://github.com/usiwol/github-readme-stats)
  
  
-![usiwol's github stats](https://github-readme-stats.vercel.app/api?username=usiwol&show_icons=true&theme=dark)
+
 
 
 
