@@ -7,9 +7,6 @@
 ### Hi there 👋
 
 
-🌈 Tech 🌈
-
-
 
 
 
@@ -17,11 +14,13 @@
 
 ![usiwol's github stats](https://github-readme-stats.vercel.app/api?username=usiwol&show_icons=true&theme=dark)
  
- 
+   <br>
+   <br>
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usiwol&layout=compact)](https://github.com/usiwol/github-readme-stats)
  
- 
+   <br>
+   <br>
 
  <div align=center><h1>👩‍💻 STACKS</h1></div>
 
