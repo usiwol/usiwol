@@ -7,14 +7,14 @@
 
 🌈 Tech 🌈
 
- <div align=center>
+
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)](github.com/Joowon0220/TODO-List)
 
 
 
 
 
-
+ <div align=center>
 
 
 ![usiwol's github stats](https://github-readme-stats.vercel.app/api?username=usiwol&show_icons=true)
