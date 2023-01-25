@@ -19,7 +19,7 @@
 
 
 
-![usiwol's github stats](https://github-readme-stats.vercel.app/api?username=usiwol&show_icons=true)
+![usiwol's github stats](https://github-readme-stats.vercel.app/api?username=usiwol&show_icons=true&theme=dark)
 
 
 <!--
