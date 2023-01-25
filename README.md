@@ -2,9 +2,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20My%20git&fontSize=90)
 
 ### Hi there 👋
-코딩 공부하는 지현이에여~^^*
 
-다들 열씨미 공부해봅시당~(❁´◡`❁)(❁´◡`❁)(❁´◡`❁)
 
 🌈 Tech 🌈
 
