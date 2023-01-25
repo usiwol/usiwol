@@ -6,7 +6,8 @@
 
 
 ### Hi there 👋
-
+### I'm a new developer, Ji-hyeon.
+### Welcome to the GitHub space with my records.
 
 
 
