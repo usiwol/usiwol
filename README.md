@@ -18,9 +18,11 @@
 
 
 
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usiwol&layout=compact)](https://github.com/usiwol/github-readme-stats)
+ 
+ 
 ![usiwol's github stats](https://github-readme-stats.vercel.app/api?username=usiwol&show_icons=true&theme=dark)
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usiwol&layout=compact)](https://github.com/usiwol/github-readme-stats)
+
 
 
 <!--
