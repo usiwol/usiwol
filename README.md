@@ -43,7 +43,7 @@
  
   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white"> 
   <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=react&logoColor=black"> 
-   <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Bootg&logoColor=white"> 
+   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=Spring Bootg&logoColor=white"> 
  
  
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usiwol&layout=compact)](https://github.com/usiwol/github-readme-stats)
