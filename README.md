@@ -19,8 +19,8 @@
  
  
 
-![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
- ![ jQuery](https://img.shields.io/badge/ jQuery-#0769AD?style=flat-square&logo=JavaScript&logoColor=black)
+!(https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+ !(https://img.shields.io/badge/ jQuery-#0769AD?style=flat-square&logo=JavaScript&logoColor=black)
 
 
  
