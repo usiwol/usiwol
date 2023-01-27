@@ -8,18 +8,10 @@
 ### Hi there 👋
 ### I'm a new developer, Ji-hyeon.
 ### Welcome to the GitHub space with my records.
-
-
-
   <br> 
    <br>
 
-
-![usiwol's github stats](https://github-readme-stats.vercel.app/api?username=usiwol&show_icons=true&theme=dark)
- 
-   <br>
-   <br>
- 
+![usiwol's github stats](https://github-readme-stats.vercel.app/api?username=usiwol&show_icons=true&theme=dark) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usiwol&layout=compact)](https://github.com/usiwol/github-readme-stats)
  
    <br>
