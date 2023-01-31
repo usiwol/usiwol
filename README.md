@@ -1,11 +1,10 @@
  <div align=center>
-   <br>
-  
+   <br>  
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Welcome%20My%20git&fontSize=90)
 
-### Hi there 👋
-### I'm a new developer, Ji-hyeon.
-### Welcome to the GitHub space with my records.
+## Hi there 👋
+## I'm a new developer, Ji-hyeon.
+## Welcome to the GitHub space with my records.
   <br> 
    <br>
   <div align=center><h1>👩‍💻 STACKS</h1></div>
