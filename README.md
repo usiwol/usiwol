@@ -7,7 +7,6 @@
 #### I'm a new developer, Ji-hyeon.
 #### Welcome to the GitHub space with my records.
   <br> 
-   <br>
   <div align=center><h1>👩‍💻 STACKS</h1></div>
  
 <div align=center> 
