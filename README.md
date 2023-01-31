@@ -8,9 +8,8 @@
 ### Welcome to the GitHub space with my records.
   <br> 
    <br>
- 
   <div align=center><h1>👩‍💻 STACKS</h1></div>
-
+ 
 <div align=center> 
    <img src="https://img.shields.io/badge/c++-00599C?style=flat&logo=c%2B%2B&logoColor=white">
   <img src="https://img.shields.io/badge/java-007396?style=flat&logo=java&logoColor=white"> 
@@ -33,18 +32,12 @@
   <img src="https://img.shields.io/badge/git-F05032?style=flat&logo=git&logoColor=white">
   <img src="https://img.shields.io/badge/fontawesome-339AF0?style=flat&logo=fontawesome&logoColor=white">
   <br>
-
+  <br>
+  <br>
 ![usiwol's github stats](https://github-readme-stats.vercel.app/api?username=usiwol&show_icons=true&theme=dark) 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usiwol&layout=compact)](https://github.com/usiwol/github-readme-stats)
- 
    <br>
    <br>
-
-
-
-  <br>
-   <br>
-
 <!--
 **usiwol/usiwol** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
